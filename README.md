@@ -1,4 +1,5 @@
 # stopwar2022.github.io
+# link to staff https://stopwar2022.github.io
 
 <h3>English version</h3>
 <p>The "official" news in the Russian Federation is mostly fake and we believe it is
